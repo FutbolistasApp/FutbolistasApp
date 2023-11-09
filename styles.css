@@ -1,0 +1,53 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, main, footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos específicos para secciones */
+.matches, .live-scores, .standings {
+    margin-top: 20px;
+}
+
+/* ... otros estilos ... */
+
+.tv {
+    margin-top: 20px;
+}
+
+.tv h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.tv-button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* ... otros estilos ... */
+
+/* ... otros estilos ... */
+
+.login, .register {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* ... otros estilos ... */
