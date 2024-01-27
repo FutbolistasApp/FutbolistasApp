@@ -1,8 +1,6 @@
 <div align="center">
 <h1>👑 Futbolistas App Project ⚽️</h1>
 <h2>Esta app sólo está creada por ustedes y por los futboleros de corazón. Este proyecto no tiene ánimo de lucro y no se hace responsable del uso que se pueda hacer del mismo.</h2>
-  
-![Mockup API Web](13shots_so.png)
 
 # Descripción del proyecto
 
