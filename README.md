@@ -6,6 +6,6 @@
 
 Este proyecto tiene como objetivo crear una app basada en OneFootball.
 
-## Tecnologías usadas
+# Tecnologías usadas
 
 Si quieres ayudarnos, por favor toma un momento para leer el archivo [CONTRIBUTING.md]. Allí encontrarás información útil sobre cómo contribuír de manera efectiva y cómo seguir nuestras guías de estilo. ¡Esperamos que disfrutes colaborando con nosotros!
